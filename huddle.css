@@ -1,0 +1,135 @@
+.free{
+    border: 1px solid rgb(196, 79, 79);
+    position: absolute;
+    right: 20px;
+    border-radius: 10%;
+    padding: 5px;
+
+}
+.heading{
+    text-align: center;
+    font-weight: 400px;
+    font-size: 1.5em;
+}
+.button{
+    background-color: rgba(250, 81, 194, 0.836);
+    border: 1px solid white;
+    border-radius: 30px;
+    height: 50px;
+    width: 210px;
+    font-size: 20px;
+}
+.com{
+    width: 100%;
+}
+.bbcc{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+
+}
+.icons{
+    display: flex;
+    justify-content: space-around;
+    font-size: 2em;
+    font-weight: 400px;
+}
+.com-p{
+    font-size: 1.
+}
+.image1-float{
+float: right;
+width: 70%;
+height: 70%;
+align-content: center;
+
+}
+
+.image1-margin{
+    margin: 10%;
+}
+.grow-margin{
+    position: relative;
+top: 100px;
+}
+.imagefooter1{
+    clear: both;
+}
+
+.image2-float{
+    float: left;
+    width: 60%;
+    height: 70%;
+    align-content: center;
+
+}
+.flow-margin{
+    margin: 10%;
+}
+.image-footer2{
+    clear: both;
+}
+.image3-float{
+    float: right;
+    width: 70%;
+    height: 70%;
+}
+.image-footer3{
+    clear: both;
+}
+.user-margin{
+    margin: 10%;
+}
+.butum{
+    text-align: center;
+}
+.btn-start{
+    background-color: rgba(241, 50, 194, 0.85);
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    color: white;
+    font-size: 1em;
+}
+.bg-footer{
+    background-image: url(images/bg-footer-top-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+padding-top: 300px;
+}
+span{
+    display: flex;
+    color: white;
+}
+.end{
+    display: flex;
+    justify-content: space-evenly;
+}
+.callicon{
+    width: 5%;
+}
+.sm-icon{
+    width: 10%;
+}
+.error{
+    color: red;
+}
+.last-input{
+    width: 100px;
+    height: 30px;
+    background-color: rgba(211, 25, 171, 0.528);
+    border-radius: 10px;
+    color: white;
+}
+.search{
+    height: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+
+
+}
+.footer-margin{
+    padding: 20px;
+
+}
